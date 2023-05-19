@@ -1,0 +1,17 @@
+header{
+    background-color:#312F2F;
+}
+img{
+    width: 150px;
+    margin: 1rem;
+}
+body{
+    background-image: url(./images/img\ fundo\ 3.jpg);
+}
+a{
+    margin-right: 15rem;
+}
+div{
+    display: flex;
+    width: 15rem;
+}

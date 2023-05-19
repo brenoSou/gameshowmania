@@ -1,0 +1,90 @@
+* {
+    font-size: 20px;
+}
+div{
+    margin-right: 50px;
+}
+       
+header{
+    background-color:#22181C;
+
+}
+nav img{
+    width: 10%;
+    margin-right: 40rem;
+    
+}
+
+.a{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 40rem;
+    justify-content: center;
+}
+
+body{
+    background-image: url(./images/img\ fundo\ 3.jpg);
+    
+}
+ section p{
+    margin-right: 20%;
+    align-items: 20%;
+ }
+ p{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+section {
+   display: flex;
+    justify-content: center;
+    margin: 60px;
+    justify-content: space-around;
+    
+    
+
+   
+    
+
+ }
+ .aa{
+    margin: 1rem;
+ }
+img{
+    width: 370px;
+    
+}
+
+.b {
+    margin: 1rem;
+border-radius: 20%;
+}
+
+
+div{
+   
+display: flex;
+margin: 2rem;
+
+
+}
+.c{
+    margin: 1rem;
+   width: 80%;
+}
+.d{
+    margin:1rem ;
+}
+.new1{
+    
+}
+section img{
+    width: 500px;
+}
+.new2{
+    display: flex;
+margin: 1rem;
+width: 20%;
+}
+.f{
+    width: 20%;
+}
